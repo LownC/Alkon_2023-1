@@ -6,4 +6,4 @@
 ## 5주차 - 그리디 </br>
 ## 6주차 - Union-Find, MST </br>
 ## 7주차 - 최단 경로 </br>
-## 8주차 - Segement Tree </br>
+## 8주차 - Segment Tree </br>
